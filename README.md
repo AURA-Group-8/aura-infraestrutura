@@ -52,10 +52,10 @@ Este repositório contém a configuração de infraestrutura como código (IaC) 
 
 - **🗂️ Grupo de Recursos**: Um exemplo de grupo de recursos no Azure.
 
-##🔒 Segurança
+## 🔒 Segurança
 
--⚠️ Certifique-se de que o arquivo `env.tfvars` está listado no `.gitignore` para evitar o versionamento de credenciais sensíveis.
--🚫 Nunca compartilhe suas credenciais publicamente.
+- ⚠️ Certifique-se de que o arquivo `env.tfvars` está listado no `.gitignore` para evitar o versionamento de credenciais sensíveis.
+- 🚫 Nunca compartilhe suas credenciais publicamente.
 
 ## 📄 Licença
 
