@@ -2,6 +2,15 @@
 
 Este repositório contém a configuração de infraestrutura como código (IaC) para o projeto **Aura**, utilizando o **Terraform** para gerenciar recursos no **Microsoft Azure**.
 
+## 💼 Equipe do projeto
+
+- [@Bruna Karen](https://github.com/brunaK19)
+- [@Gustavo Basi](https://github.com/GustavoBasi)
+- [@Luiz Felipe](https://github.com/LuizFelipeSptech)
+- [@Murillo Lima](https://github.com/Murillo-lc)
+- [@Pablo Rocha](https://github.com/AlbaDr52)
+- [@Richard Almeida](https://github.com/richpdp)
+
 ## 📁 Estrutura do Repositório
 
 - 📦 **`providers.tf`**: Configuração do provedor do Azure.  
